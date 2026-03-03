@@ -1,6 +1,6 @@
 # Inter Industry Wage Differentials
 ## Motivation
-While working on an essay for my International Politics of Economic Relations class, I came accross these nice graphs by Michael J. Hiscox for inter-industry variations in wages in the 19th and 20th century for 6 key countries. An example for the United-Sates:
+While working on an essay for my International Politics of Economic Relations class, I came accross these nice graphs by Michael J. Hiscox for inter-industry variations in wages in the 19th and 20th century for 6 key countries. An example for the United-States:
 <img width="589" height="371" alt="Screenshot from 2026-03-03 17-12-16" src="https://github.com/user-attachments/assets/17a42051-5bb1-43ad-adaf-e328f542fa87" />
  Source:  Hiscox MJ. Class versus Industry Cleavages: Inter-Industry Factor Mobility and the Politics of Trade. International Organization. 2001: 55 (1), pp 1-46.
 
